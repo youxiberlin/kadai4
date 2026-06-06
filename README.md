@@ -1,5 +1,8 @@
 ## 課題４
 
+学籍番号：26745112
+https://github.com/youxiberlin/kadai4
+
 実行方法
 
 ```bash
